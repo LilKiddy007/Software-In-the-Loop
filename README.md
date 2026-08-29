@@ -1,4 +1,4 @@
-# Software in the Loop (SIL) with NI LabVIIEW and Multisim
+# Software in the Loop (SIL) with NI LabVIEW and Multisim
 
 ![system in loop](images/controller_in_loop.png)
 
