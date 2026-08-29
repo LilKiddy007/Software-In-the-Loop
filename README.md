@@ -69,5 +69,3 @@ The final response was stable, with slowly decaying oscillations. The controller
 ## License
 
 Documentation, diagrams, images, results, and other materials in this repository are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-
-Source code is licensed under the MIT License. See `LICENSE-CODE` for details.
