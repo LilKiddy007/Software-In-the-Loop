@@ -2,7 +2,6 @@
 
 ![system in loop](images/controller_in_loop.png)
 
-## Overview
 
 ## Overview
 
